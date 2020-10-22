@@ -13,10 +13,10 @@
 
 
 .nav-color-main{
-    background-color: rgb(4, 138, 247);
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.55);
     min-height: 9vh;
     font-size: 20px;
-    
+    top: 0;
 }
 
 .headerimg p{
@@ -25,6 +25,7 @@
     top: 450px;
     color: white;
     font-size: 30px;
+    
 }
 
 .main-icon-color{
