@@ -31,3 +31,8 @@
     color: white;
     font-size: 20px;
 }
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
