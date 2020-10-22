@@ -1,0 +1,33 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.circle{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+
+.nav-color-main{
+    background-color: rgb(4, 138, 247);
+    min-height: 9vh;
+    font-size: 20px;
+    
+}
+
+.headerimg p{
+    position: absolute;
+    text-align: center;
+    top: 450px;
+    color: white;
+    font-size: 30px;
+}
+
+.main-icon-color{
+    color: white;
+    font-size: 20px;
+}

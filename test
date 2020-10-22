@@ -1,0 +1,35 @@
+<div class="container-fluid text-center">
+<h2>My name is Kacper</h2>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad harum deserunt excepturi sunt eos nostrum, alias tempora fugit, laborum optio dolorem dolorum iure non error laudantium, praesentium dolor! At, iste.</p>
+<img class="circle" src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" alt="">
+    </div>
+<br>
+<br>
+    <div class="container text-center">
+        <div class="row">
+          <div class="col-sm">
+            <img src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" width="150px" alt="">
+          </div>
+          <div class="col-sm">
+            <img src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" width="150px" alt="">
+          </div>
+          <div class="col-sm">
+            <img src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" width="150px" alt="">
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-sm">
+            <img src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" width="150px" alt="">
+          </div>
+          <div class="col-sm">
+            <img src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" width="150px" alt="">
+          </div>
+          <div class="col-sm">
+            <img src="https://smartfinancedubai.com/wp-content/uploads/2016/06/fff.png" width="150px" alt="">
+          </div>
+        </div>
+      </div>
