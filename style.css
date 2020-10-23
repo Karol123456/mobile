@@ -104,6 +104,7 @@ cursor: pointer;
 
 .overflow{
     overflow: hidden;
+    
 }
 
 .czarny:hover{
@@ -112,6 +113,7 @@ transition: 1s;
 cursor: pointer;
 animation-name: zoom;
 animation-duration: 2s;
+animation-fill-mode: forwards;
 }
 .niebieski:hover{
     color: blue;
@@ -119,6 +121,7 @@ transition: 1s;
 cursor: pointer;
 animation-name: unzoom;
 animation-duration: 2s;
+animation-fill-mode: forwards;
 }
 
 .zielony:hover{
@@ -127,6 +130,7 @@ animation-duration: 2s;
     cursor: pointer;
     animation-name: zoomunzzom;
     animation-duration: 4s;
+    animation-fill-mode: forwards;
 }
 
 
@@ -155,4 +159,113 @@ to{
     50%{transform: rotate(180deg);}
     70% {transform: scale(0.5);}
     100%{transform: scale(1);}
+}
+
+
+.obrazek:hover{
+    animation-name: zoomunzzom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    max-width: 200px;
+    
+}
+
+.obrazek2:hover{
+    animation-name: zoom;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+    max-width: 200px;
+    
+}
+
+.obrazek3:hover{
+    animation-name: unzoom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    max-width: 200px;
+    
+}
+
+.obrazek4:hover{
+    transition: 1s;
+    opacity: 0;
+    max-width: 200px;
+    
+}
+
+.overflow1{
+    overflow: hidden;
+}
+
+.jpgwidth{
+    max-width: 200px;
+    height: 190px;
+}
+
+
+.borderrr1{
+    border: 2px solid red;
+    max-width: 200px;
+    height: 190px;
+}
+
+.overflow2{
+    overflow: hidden;
+    min-width: 200px;
+}
+@keyframes zoom22 {
+    from{
+
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+.zoommaly:hover{
+    animation-name: zoom22;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+}
+@keyframes zoom12 {
+    from{
+
+    }
+    to{
+        transform: scale(1.3);
+    }
+}
+
+.zoommaly4:hover{
+    animation-name: zoom12;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+}
+@keyframes zoom32 {
+    from{
+
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+.zoommaly2:hover{
+    animation-name: zoom32;
+    animation-fill-mode: forwards;
+    animation-duration: 3s;
+}
+@keyframes zoom27 {
+    from{
+
+    }
+    to{
+        transform: scale(1.9);
+    }
+}
+
+.zoommaly1:hover{
+    animation-name: zoom27;
+    animation-fill-mode: forwards;
+    animation-duration: 3s;
 }
